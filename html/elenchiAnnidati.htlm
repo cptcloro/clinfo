@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Elenchi annidiati</title>
+  </head>
+  <body>
+    <h1>Cose da fare oggi</h1>
+    <ol>
+      <li>Dare da mangiare al gatto:
+        <ul>
+          <li>Sciacquare la ciotola</li>
+	  <li>Aprire la scatoletta</li>
+	  <li>Mischiare cibo secco e umido</li>
+	  <li>Servire a Pixel su un piatto d'argento</li>
+	</ul></li>
+      <li>Lavare la macchina
+	<ul>
+	  <li>Passare l'aspirapolvere all'interno</li>
+	  <li>Lavare la carrozzeria</li>
+	  <li>Passare la cera sulla carrozzeria</li>
+	</ul></li>
+      <li>Andare a fare la spesa
+        <ul>
+          <li>Decidere cosa fare per cena</li>
+	  <li>Fare pulizia nel frigorifero</li>
+	  <li>Fare la lista della spesa</li>
+	  <li>Recarsi al negozio</li>
+	</ul></li>
+    </ol>
+  </body>
+</html>
